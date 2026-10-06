@@ -1,4 +1,4 @@
-﻿/// 2) Elabore um programa em C# que gerencie o acesso de convidados a partir
+﻿/// Elabore um programa em C# que gerencie o acesso de convidados a partir
 /// de um vetor fixo de nomes (string[] convidadosVip = { "Ana Silva", "Carlos Souza", "Mariana Costa" };). O programa deve solicitar que 
 /// o usuário digite o número do crachá (o índice) correspondente. Como o usuário pode digitar coisas inesperadas, o código deve estar totalmente
 /// protegido utilizando a estrutura try...catch com três blocos de tratamento (O que pode dar errado nesse caso deve ser capturado). Um deve ser genérico
