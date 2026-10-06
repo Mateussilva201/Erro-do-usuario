@@ -4,7 +4,7 @@
 using System.ComponentModel.Design;
 using System.Linq.Expressions;
 
-/// 1) Elabore um programa em C# que solicite ao usuário que digite a sua idade.
+/// Um programa em C# que solicite ao usuário que digite a sua idade.
 /// O programa deve usar o comando int.TryParse apenas uma vez (sem loops) para validar a entrada. 
 /// Se o usuário digitar um número inteiro válido, o programa deve exibir uma mensagem de sucesso mostrando a idade. 
 /// Se o usuário digitar letras ou símbolos inválidos, o programa deve exibir uma mensagem de erro educada, sem fechar ou quebrar a aplicação
